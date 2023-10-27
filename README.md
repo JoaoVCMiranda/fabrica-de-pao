@@ -7,7 +7,7 @@ O Projeto da Fábrica de Pão visa disponibilizar pensamento empreendedor de for
 ---
 para iniciar o projeto, instale os pacotes e 
 
-´´ npm run dev´´
+``` npm run dev ```
 
 ---
 ## Para continuar aprendendo
