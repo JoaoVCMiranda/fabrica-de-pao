@@ -1,5 +1,7 @@
 # Fabrica-de-pão
 
+![Badge Desenvolvimento](https://badgen.net/static/status/sendo%20forjado/?color=blue)
+
 Empreendedorize-se!
 
 O Projeto da Fábrica de Pão visa disponibilizar pensamento empreendedor de forma centralizada para oferecer um bom direcionamento para os entusiastas que descobriram essa nova área recentemente.
