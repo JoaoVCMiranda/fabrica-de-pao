@@ -28,5 +28,5 @@ para iniciar o projeto, instale os pacotes e
 - [Deploy vercel](https://vercel.com/)
 
 ---
-Gerado com <3 em ![Logo Poli](https://imagens.usp.br/wp-content/uploads/EP-Escrita-600x107.jpg)
+Gerado com <3 em ![Logo Poli](https://imagens.usp.br/wp-content/uploads/EP-Escrita-240x135.jpg)
 
