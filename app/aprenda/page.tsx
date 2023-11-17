@@ -1,4 +1,4 @@
-import Section from "../section.tsx"
+import Section from "../section"
 export default function Page(){
 	return(
 		<Section title="Aprenda!" descr="Desvende os ensinamentos atemporarais sobre a arte de aprender!!">

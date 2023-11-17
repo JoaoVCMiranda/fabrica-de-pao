@@ -1,4 +1,4 @@
-import Section from "../section.tsx"
+import Section from "../section"
 export default function Page(){
 	return(
 		<Section title="Pão!" descr="O mercado de panificação no Brasil é um dos mais promissores do país. De acordo com a Associação Brasileira da Indústria de Panificação e Confeitaria (ABIP), o setor movimentou R$ 140 bilhões em 2022, um crescimento de 10% em relação ao ano anterior.">

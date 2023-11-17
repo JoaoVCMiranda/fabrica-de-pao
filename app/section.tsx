@@ -1,9 +1,10 @@
-export default function Section({title="Sem titulo", descr, children}:{children: React.ReactNode}){
-	/* 
-	 * Aqui será definido o fundo da pagina, a formatação padrão das fontes dentro da div}
-    	 * É para ser simples mesmo
-	 * document.title = title;
-	 */
+interface BaseLayoutProps{
+	children?: React.ReactNode;
+	title: string;
+	descr: string;
+}
+
+const Section : React.FC<BaseLayoutProps> = ({title="Sem titulo", descr, children}) => {
 	return (
     		<div className="flex justify-center grid grid-cols-1">
 			<h1 className="flex justify-center p-[3.5em] font-semibold text-2xl">{title}</h1>
@@ -13,4 +14,5 @@ export default function Section({title="Sem titulo", descr, children}:{children:
 
 		</div>
   	);
-}
+};
+export default Section;
