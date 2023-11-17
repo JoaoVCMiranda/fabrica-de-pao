@@ -30,11 +30,11 @@ export default function Page(){
 		
 			<ul className="grid grid-cols-2 place-content-evenly">
 		
-			<ld><b>Faça uma pesquisa de mercado:</b> É importante identificar as oportunidades e desafios do segmento antes de investir.</ld>
-			<ld><b>Conte com uma equipe qualificada:</b> A equipe é um dos fatores mais importantes para o sucesso de um negócio.</ld>
-			<ld><b>Tenha um plano de negócios bem elaborado:</b> O plano de negócios deve definir os objetivos do negócio, a estratégia de marketing e as projeções financeiras.</ld>
+			<li><b>Faça uma pesquisa de mercado:</b> É importante identificar as oportunidades e desafios do segmento antes de investir.</li>
+			<li><b>Conte com uma equipe qualificada:</b> A equipe é um dos fatores mais importantes para o sucesso de um negócio.</li>
+			<li><b>Tenha um plano de negócios bem elaborado:</b> O plano de negócios deve definir os objetivos do negócio, a estratégia de marketing e as projeções financeiras.</li>
 
-			<ld><b>Invista em inovação:</b> A inovação é essencial para se destacar da concorrência.</ld>
+			<li><b>Invista em inovação:</b> A inovação é essencial para se destacar da concorrência.</li>
 		</ul>
 			<h2>Conclusão</h2>
 		<p>
