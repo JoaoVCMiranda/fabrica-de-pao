@@ -4,7 +4,6 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-		<h1>Hello World!</h1>
     		<div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
 		<Link href="/sobre"><h1 className="items-center justify-between font-semibold">Quem nós somos?</h1></Link>
 		<p className="max-w-[60%] text-sm">Somos entusiastas do aprendizado, e visando democratizar o acesso do pensamento empreendedor, criamos a fábrica de pão com o objetivo de atacar essa pauta em conjunto com os ODS(Objetivos de Desenvolvimento Sustentável) da ONU(Organização das Nações Unidas)</p>
