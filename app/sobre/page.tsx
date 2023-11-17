@@ -10,6 +10,7 @@ export default function Page(){
 		>
 		<Image src={nostudo}
 			className= "max-w-[80%] m-[5%] flex justify-center"
+			alt="Integrantes do grupo"
 		/>
 		</Section>
 	);
