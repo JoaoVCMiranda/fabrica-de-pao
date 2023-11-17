@@ -4,7 +4,7 @@ interface BaseLayoutProps{
 	descr: string;
 }
 
-const Section : React.FC<BaseLayoutProps> = ({title="Sem titulo", descr, children}) => {
+const Section : React.FC<BaseLayoutProps> = ({title="Sem titulo", descr="", children}) => {
 	return (
     		<div className="flex justify-center grid grid-cols-1">
 			<h1 className="flex justify-center p-[3.5em] font-semibold text-2xl">{title}</h1>
