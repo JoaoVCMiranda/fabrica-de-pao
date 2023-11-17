@@ -28,11 +28,11 @@ export default function Home() {
 		<h1 className="items-center justify-between font-semibold">Valores</h1>
 	</div>
 	<div>
-	<ld className="list-none">
+	<ul className="list-none">
 	<li>§ Consistência</li> 
 	<li>§ Compreensão </li>
 	<li>§ Técnica</li>
-	</ld>
+	</ul>
      	</div>
 	<hr className="h-5"/>
 
