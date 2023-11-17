@@ -1,4 +1,4 @@
-from import Image
+import Image from 'next/image'
 
 const Footer({}) =>{
 	return(
