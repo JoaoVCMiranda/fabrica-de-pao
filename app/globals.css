@@ -24,4 +24,22 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    text-align: center;
+}
+p {
+  margin: 10px auto;
+  max-width: 80%; 
+  #place-content: center;
+  #color : rgb(123,222,0);
+}
+a:hover {
+  text-decoration: underline;
+}
+h2 {
+   font-size: 150%;
+   font-weight: 600;
+   margin: 1em;
+}
+ld {
+	margin: 3px;
 }
